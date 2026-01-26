@@ -42,8 +42,11 @@ Soy LGSUS, un apasionado desarrollador Full-Stack de Ecuador. Me especializo en 
 - Desarrollo de interfaces con React y Livewire
 - Estilizado con Bootstrap y Tailwind CSS
 - Implementación de diseños responsivos y dinámicos
+<img src="img/cat_lo.gif" align="right">
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ### 💻 Tech Stack
 
@@ -58,13 +61,16 @@ Soy LGSUS, un apasionado desarrollador Full-Stack de Ecuador. Me especializo en 
 </div>
 
 <div align="center">
-<a href="https://jacojean.pro/" target="_blank">
+<a href="https://lgsuss.com/" target="_blank">
   <img src="https://img.shields.io/badge/-Mi%20Portafolio%20Web-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=LGSUSJK&theme=react-dark&hide_border=true" width="100%">
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ### 📊 Estadísticas de GitHub
 
@@ -75,18 +81,23 @@ Soy LGSUS, un apasionado desarrollador Full-Stack de Ecuador. Me especializo en 
 
 ### 🏆 Trofeos de GitHub
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LGSUSJK&theme=matrix&no-frame=true&no-bg=true&row=1&column=6" width="100%" />
+  <a href="https://github.com/LGSUSJK">
+    <img src="https://github-profile-trophy.vercel.app/?username=LGSUSJK" />
+  </a>
 </div>
+<img src="img/WMDv.gif" align="right">
+<img src="img/pck.gif" align="right">
+<img src="img/00.gif" align="center" width="100%">
 
+
+
+<!--
 ### 📫 Contáctame
-
 <div align="center">
-
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/LGSUSJK)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel)](https://lgsuss.com/)
-
 </div> 
-
+-->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
