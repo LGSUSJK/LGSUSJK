@@ -93,9 +93,10 @@ Soy LGSUS, un apasionado desarrollador Full-Stack de Ecuador. Me especializo en 
 <img src="img/s.gif" align="right"width="40%" >
 -->
 <br>
-<img src="img/00.gif" align="left" width="50%">
-<img src="img/lucy.gif" align="right" width="50%">
-
+<div align="center">
+  <img src="img/00.gif" align="left" width="50%">
+  <img src="img/lucy.gif" align="right" width="50%">
+</div>
 
 
 <!--
