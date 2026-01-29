@@ -26,7 +26,10 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Full-Stack Developer & Tech Enthusiast
 
+<!--
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
+-->
+<img align="right" alt="GIF" src="img/WMDv.gif" width="400" />
 
 Soy LGSUS, un apasionado desarrollador Full-Stack de Ecuador. Me especializo en crear soluciones web completas y eficientes, combinando mis conocimientos en desarrollo frontend y backend para ofrecer productos de alta calidad.
 
@@ -85,9 +88,13 @@ Soy LGSUS, un apasionado desarrollador Full-Stack de Ecuador. Me especializo en 
     <img src="https://github-profile-trophy.vercel.app/?username=LGSUSJK" />
   </a>
 </div>
-<img src="img/WMDv.gif" align="right">
-<img src="img/pck.gif" align="right">
-<img src="img/00.gif" align="center" width="100%">
+<!--
+<img src="img/pck.gif" align="left" width="60%">
+<img src="img/s.gif" align="right"width="40%" >
+-->
+<br>
+<img src="img/00.gif" align="left" width="50%">
+<img src="img/lucy.gif" align="right" width="50%">
 
 
 
